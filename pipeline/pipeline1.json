@@ -19,7 +19,6 @@
 						"type": "DelimitedTextSource",
 						"storeSettings": {
 							"type": "AzureBlobFSReadSettings",
-							"fileListPath": "taxidata/raw/TaxiRides.csv",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
